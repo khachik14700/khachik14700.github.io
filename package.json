@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-<<<<<<< HEAD
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -11,15 +10,6 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-=======
- "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "lint": "eslint .",
-  "preview": "vite preview",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
->>>>>>> 598e5acffd04e4df6a1cbe8f2ded04ef988b0b68
   },
   "dependencies": {
     "@emotion/react": "^11.13.3",
@@ -72,9 +62,5 @@
     "tailwindcss": "^3.4.14",
     "vite": "^5.4.10"
   },
-<<<<<<< HEAD
   "homepage": "https://khachik14700.github.io/khachik14700.github.io"
-=======
-    "homepage": "https://khachik14700.github.io/khachik14700.github.io"
->>>>>>> 598e5acffd04e4df6a1cbe8f2ded04ef988b0b68
 }
