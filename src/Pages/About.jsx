@@ -230,7 +230,7 @@ const AboutPage = () => {
             </p>
 
             <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4 lg:gap-4 lg:px-0 w-full">
-              <a href="/Khachik_Khachatryan.pdf" className="w-full lg:w-auto">
+              <a href="/_CV_.pdf" className="w-full lg:w-auto">
               <button 
                 data-aos="fade-up"
                 data-aos-duration="800"
